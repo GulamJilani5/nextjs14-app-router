@@ -1,0 +1,28 @@
+### @ - project folder or root folder. It is outside of the app folder.
+
+### We can have components folder inside or outside of the app directory and create custom vanilla react components. 
+    We use them by export and import as vanilla react components.
+    We can use header.js or header.jsx or Header.jsx or Header.js
+
+Important!:Nextjs has many Reserved filenames. But These filenames are only reserved when creating them 
+           inside of the app/ folder (or any subfolder). Outside of the app/ folder, these filenames are 
+           not treated in any special way.
+
+### Dynamic Routing
+  [slug] or [id]
+  Desstructuring the parent props {params}
+
+echo "# nextjs14-app-router" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/GulamJilani5/nextjs14-app-router.git
+git push -u origin main
+
+…or push an existing repository from the command line
+git remote add origin https://github.com/GulamJilani5/nextjs14-app-router.git
+git branch -M main
+git push -u origin main
+
+  
